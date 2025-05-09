@@ -1,3 +1,4 @@
-오타마톤을 살 돈이 없는 가난한 음악가들을 위해 웹으로 오타마톤을 만들어 봤습니다.
+I made a web otamatone for poor musicians.
+injoy playing.
+ddaii
 따이
-즐겁게 연주해 보세요.
